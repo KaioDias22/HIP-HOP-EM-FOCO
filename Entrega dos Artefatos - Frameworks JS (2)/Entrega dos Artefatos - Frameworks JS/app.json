@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Hip Hop em Foco",
+    "slug": "hiphop-em-foco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.exemplo.hiphopemfoco"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "name": "Hip Hop em Foco",
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
